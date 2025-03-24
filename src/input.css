@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.box1{
+    background-image: url(./BG\ \(1\).svg);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
